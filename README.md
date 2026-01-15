@@ -1,9 +1,11 @@
 ## Hallo! Mein Name ist Leandro Küng
 
 Ich besuche aktuell die IMS in Baden und ich bin im 3. Jahr der Ausbildung. Um mehr über mich zu erfahren, finden sie hier meine Website und mein LinkedIn Profil.
+---
 LinkedIn: https://www.linkedin.com/in/leandro-edwin-k%C3%BCng-763a4a324/
+---
 Website: https://leandrokueng.ch/
-
+---
 
 ### 🛠️ Technologien & Tools
 
